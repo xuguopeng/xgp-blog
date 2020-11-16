@@ -35,3 +35,7 @@
   height: 200px;
   width: 200px;
 }
+
+.row .col.col--4{
+  --ifm-col-width: calc(1 / 12 * 100%);
+}

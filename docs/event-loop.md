@@ -1,6 +1,7 @@
 ---
 id: event-loop
-title: event loop 事件循环
+title: JavaScript event loop 事件循环
+slug: /
 ---
 
 ## 一. JavaScript 单线程

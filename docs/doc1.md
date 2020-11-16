@@ -2,7 +2,6 @@
 id: doc1
 title: Style Guide
 sidebar_label: Style Guide
-slug: /
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
@@ -65,6 +64,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [I'm a reference-style link][arbitrary case-insensitive reference text]
 
 [You can use numbers for reference-style link definitions][1]
+
+This is a link to [another document.](event-loop.md) This is a link to an [external page.](http://www.example.com/)
 
 Or leave it empty and use the [link text itself].
 
